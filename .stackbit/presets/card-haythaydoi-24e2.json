@@ -1,0 +1,34 @@
+{
+    "model": "card",
+    "srcType": "sanity",
+    "srcProjectId": "6unqyask:production",
+    "presets": [
+        {
+            "label": "haythaydoi",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "dddddd"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "badge": null,
+                "heading": null,
+                "body": null,
+                "cta": [],
+                "image": {
+                    "$$type": "customImage",
+                    "image": {
+                        "$$ref": "image-dfe01efe13cb0978351640fa81096e55826a9dd4-400x400-jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "alt": "Em này khá đẹp"
+                },
+                "theme": null,
+                "textAlign": null,
+                "hasBorder": true
+            }
+        }
+    ]
+}
